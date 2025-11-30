@@ -7,7 +7,7 @@ h# 💫 About Me:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+live+to+code.;I+code+to+create.;I+build+ideas+into+apps." />
 </p>
 <p align="center">
-  <a href="https://hha-portifolo.vercel.app/">
+  <a href="https://hha-portifolo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
