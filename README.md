@@ -1,4 +1,4 @@
-# 💫 About Me:
+h# 💫 About Me:
 <h1 align="center">Hey, I'm Htoo Htoo Aung 👋</h1>
 <p align="center">
   🚀 Full-Stack Developer | 💡 Tech Enthusiast | 💬 Code Lover  
@@ -6,11 +6,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+live+to+code.;I+code+to+create.;I+build+ideas+into+apps." />
 </p>
+<p align="center">
+  <a href="https://hha-portifolo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 <br>🌱 I’m currently diving into Next.js 15, Supabase, and full-stack SaaS<br><br>🛠️ Tech Stack: React, MongoDB, Tailwind CSS, Firebase, TypeScript, Laravel<br><br>🔭 Building side projects and learning new things every day<br><br>💬 I love solving problems and turning ideas into real products<br><br>🧠 Quote I live by: “We Live We Code We Yoke”
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://hha-portifolo.vercel.app/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@htooishere)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:htoohtooaung22ag@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/devhha)
